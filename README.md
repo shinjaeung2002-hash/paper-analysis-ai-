@@ -1,6 +1,6 @@
 # Paper Analysis AI
 
-An AI-assisted tool that extracts key insights from scientific research papers. This project demonstrates an AI-assisted pipeline for extracting key insights from scientific papers.
+AI-powered tool for extracting key results, figures, and references from scientific papers
 
 ## Overview
 
@@ -19,6 +19,13 @@ This project processes a research paper (PDF) and extracts:
 - Extract references
 - Summarize results
 - Output JSON
+
+## What Makes This Project Unique
+
+- Combines PDF parsing + AI summarization
+- Automatically identifies key figures from scientific papers
+- Extracts structured research insights (result, figure, reference)
+- Designed as a lightweight research assistant tool
 
 ## Example Output
 
