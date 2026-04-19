@@ -27,6 +27,12 @@ This project processes a research paper (PDF) and extracts:
 - Extracts structured research insights (result, figure, reference)
 - Designed as a lightweight research assistant tool
 
+## How to Run
+
+```bash
+pip install pymupdf
+python main.py
+
 ## Example Output
 
 ```json
