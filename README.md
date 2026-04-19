@@ -1,6 +1,6 @@
 # 📄 Paper Analysis AI
 
-An AI-assisted tool that extracts key insights from scientific research papers.
+An AI-assisted tool that extracts key insights from scientific research papers. This project demonstrates an AI-assisted pipeline for extracting key insights from scientific papers.
 
 ## 🚀 Overview
 
