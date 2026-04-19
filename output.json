@@ -1,0 +1,12 @@
+{
+    "main_result": "Topological phase unwinding from \u03c0-state to zero-state due to nonlinearity",
+    "figure": "Phase evolution figure showing unwinding from \u03c0-state to zero-state",
+    "reference": "Carusotto & Ciuti (2013)",
+    "explanation": "Nonlinearity breaks topological protection causing phase transition",
+    "num_images": 21,
+    "sample_images": [
+        "images/image_0_855.png",
+        "images/image_2_138.png",
+        "images/image_2_139.png"
+    ]
+}
